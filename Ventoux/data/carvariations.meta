@@ -4,18 +4,18 @@
   <variationData>
     <Item>
       <modelName>ventoux</modelName>
-            <colors>
+      <colors>
         <Item>
           <indices content="char_array">
             64 
             0 
             11
             0 
-			11
-			64 
+            11
+            64 
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -31,11 +31,11 @@
             0 
             11
             0 
-			11
-			97 
+            11
+            97 
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -51,11 +51,11 @@
             0 
             11
             0 
-			11
-			112 
+            11
+            112 
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -71,11 +71,11 @@
             0 
             11
             0  
-			11
-			138 
+            11
+            138 
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -91,11 +91,11 @@
             0 
             11
             0 
-			11
-			70 
+            11
+            70 
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -111,11 +111,11 @@
             0 
             11
             0 
-			11
-			29 
+            11
+            29 
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -131,11 +131,11 @@
             0 
             11
             0 
-			11
-			3
+            11
+            3
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -145,17 +145,17 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
             38 
             0 
             11
             0 
-			11
-			38 
+            11
+            38 
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -167,7 +167,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>0_default_modkit</Item>
+        <Item>0_ventoux_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -193,5 +193,5 @@
       <lightSettings value="11235216052" />
       <sirenSettings value="0" />
     </Item>
-    </variationData>
+  </variationData>
 </CVehicleModelInfoVariation>
